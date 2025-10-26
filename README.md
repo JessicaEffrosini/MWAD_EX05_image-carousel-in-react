@@ -1,4 +1,4 @@
-<img width="1919" height="1089" alt="Screenshot 2025-10-26 171813" src="https://github.com/user-attachments/assets/c4985306-450d-4036-85e1-91b915fa76fa" /># MWAD_EX05_image-carousel-in-react
+## MWAD_EX05_image-carousel-in-react
 ## Date:26.10.25
 
 ## AIM
